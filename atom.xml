@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muhesha.github.io/blogs</id>
-    <title>Gridea</title>
-    <updated>2020-08-16T18:18:00.076Z</updated>
+    <title>明明小屋</title>
+    <updated>2020-08-16T19:04:58.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muhesha.github.io/blogs"/>
     <link rel="self" href="https://muhesha.github.io/blogs/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>下雨的角落</subtitle>
     <logo>https://muhesha.github.io/blogs/images/avatar.png</logo>
     <icon>https://muhesha.github.io/blogs/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 明明小屋</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://muhesha.github.io/blogs/post/hello-gridea/</id>
